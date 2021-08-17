@@ -56,7 +56,7 @@ The materials from this class rely significantly on slides prepared by other ins
 
 ## Covid 19 Information
 
-<p><span>The fall semester 2020 is especially challenging due to the Covid-19 pandemic. Even though CS 6476 will be taught remotely, please take note of the information below. &nbsp;The most up-to-date information on Covid-19 is on the </span><a href="https://health.gatech.edu/coronavirus">TECH Moving Forward</a><span> website.
+<p><span>The fall semester 2021 is especially challenging due to the Covid-19 pandemic. Even though CS x476 will be taught remotely, please take note of the information below. &nbsp;The most up-to-date information on Covid-19 is on the </span><a href="https://health.gatech.edu/coronavirus">TECH Moving Forward</a><span> website.
 
 <h3>Expectations and Guidelines</h3>
 <p>Each of us has a responsibility to ourselves and our fellow Yellow Jackets to be mindful of our shared commitment.</p>
@@ -68,7 +68,7 @@ The materials from this class rely significantly on slides prepared by other ins
 <p>Additional information is available in the <a href="https://health.gatech.edu/coronavirus/students/guidebook">Student Guidebook</a>.</p>
 
 <h3>Instructor Illness or Exposure to Covid-19</h3>
-<p>During the fall 2020 semester, some faculty members may be required to quarantine due to exposure or isolate due to a Covid-19 diagnosis. Some disruption to classes or services is inevitable, but Georgia Tech is making every effort to ensure continuity of operations. As is the case in any semester, faculty may cancel a class if they have an illness or emergency situation and cover any missed material at their own discretion. If we need to cancel a class, we will notify students as early as possible.</p>
+<p>During the fall 2021 semester, some faculty members may be required to quarantine due to exposure or isolate due to a Covid-19 diagnosis. Some disruption to classes or services is inevitable, but Georgia Tech is making every effort to ensure continuity of operations. As is the case in any semester, faculty may cancel a class if they have an illness or emergency situation and cover any missed material at their own discretion. If we need to cancel a class, we will notify students as early as possible.</p>
 
 <h3>Student Illness or Exposure to Covid-19</h3>
 <p>During the semester, you may be required to quarantine or self-isolate to avoid the risk of infection to others. &nbsp;Quarantine is the separation of those who have been exposed to someone with Covid-19 but who are not ill; isolation is the separation of those who have tested positive for Covid-19 or been diagnosed with Covid-19 by symptoms.</p>
@@ -90,5 +90,5 @@ The materials from this class rely significantly on slides prepared by other ins
 <p>All course assignments will be submitted electronically via Canvas. </p>
 
 <h3>Course Attendance Structure:</h3>
-<p>Class sessions for CS 6476 will take place remote but synchronously. You are encouraged to attend class duting the assigned class times (Monday and Wednesday, 5pm-6.15pm) and re-review the video snippets when they become available.</p>
+<p>Class sessions for CS x476 will take place remote but synchronously. You are encouraged to attend class duting the assigned class times (Monday and Wednesday, 5pm-6.15pm) and re-review the video snippets when they become available.</p>
 <hr>
