@@ -47,7 +47,11 @@ You should not view or edit anyone else's code. You should not post code to Piaz
 If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
 
 Heyley Gatewood | hgatewood6@gatech.edu
-TBD | tbd@gatech.edu
+Kritika Gupta | kgupta340@gatech.edu
+Nikith Hosangadi| nhosangadi3@gatech.edu
+Junyan Mao | jmao@gatech.edu
+Sarath Mutnuru | smutnuru3@gatech.edu
+Shashank Srikanth | ssrikanth39@gatech.edu
 
 ### Acknowledgements
 The materials from this class rely significantly on slides prepared by other instructors, especially James Hays, Derek Hoiem, Svetlana Lazebnik, and Judy Hoffmann. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
