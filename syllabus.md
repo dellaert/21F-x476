@@ -94,5 +94,5 @@ The materials from this class rely significantly on slides prepared by other ins
 <p>All course assignments will be submitted electronically via Canvas. </p>
 
 <h3>Course Attendance Structure:</h3>
-<p>Class sessions for CS x476 will take place remote but synchronously. You are encouraged to attend class duting the assigned class times (Monday and Wednesday, 5pm-6.15pm) and re-review the video snippets when they become available.</p>
+<p>Class sessions for CS x476 will take place remote but **synchronously**. You are strongly encouraged to attend class during the assigned class times (Tuesday and Thursday, 3.30pm-4.45pm) and re-review the video snippets when they become available.</p>
 <hr>
