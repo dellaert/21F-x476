@@ -43,6 +43,9 @@ You should not view or edit anyone else's code. You should not post code to Piaz
 * [Piazza](https://piazza.com/class/ksdl6rhmpt25ma). This should be your first stop for questions and announcements.
 * [Gradescope](https://www.gradescope.com/) will be used to hand in assignments.
 
+<h3>Course Attendance:</h3>
+<p>Class sessions for CS x476 will take place remote but **synchronously**. You are strongly encouraged to attend class during the assigned class times (Tuesday and Thursday, 3.30pm-4.45pm) and re-review the video snippets when they become available.</p>
+
 ### Contact Info and Office Hours:
 If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
 
@@ -62,37 +65,16 @@ The materials from this class rely significantly on slides prepared by other ins
 
 <p><span>The fall semester 2021 is especially challenging due to the Covid-19 pandemic. Even though CS x476 will be taught remotely, please take note of the information below. &nbsp;The most up-to-date information on Covid-19 is on the </span><a href="https://health.gatech.edu/coronavirus">TECH Moving Forward</a><span> website.
 
-<h3>Expectations and Guidelines</h3>
-<p>Each of us has a responsibility to ourselves and our fellow Yellow Jackets to be mindful of our shared commitment.</p>
-<ul>
-<li><strong>We are all required to wear a face covering while inside any campus facilities/buildings, including during in-person classes, and to adhere to social distancing of at least 6 feet</strong>.  <a href="https://hr.gatech.edu/face-coverings">Information on the Institute’s policy on face coverings.</a></li>
-<li>Students are expected to sit in assigned seats and to come to class only on days that are assigned to them.</li>
-<li>Papers, projects, tests, homework, and other assignments will only be accepted in electronic form unless the assignment is a physical artifact.&nbsp;</li>
-</ul>
-<p>Additional information is available in the <a href="https://health.gatech.edu/coronavirus/students/guidebook">Student Guidebook</a>.</p>
+We encourage everyone in the Georgia Tech community to follow the Centers for Disease Control and Prevention's (CDC) recommendations, vaccinate, and wear a mask in campus buildings. 
 
-<h3>Instructor Illness or Exposure to Covid-19</h3>
-<p>During the fall 2021 semester, some faculty members may be required to quarantine due to exposure or isolate due to a Covid-19 diagnosis. Some disruption to classes or services is inevitable, but Georgia Tech is making every effort to ensure continuity of operations. As is the case in any semester, faculty may cancel a class if they have an illness or emergency situation and cover any missed material at their own discretion. If we need to cancel a class, we will notify students as early as possible.</p>
+If there is one thing each one of us can do to protect ourselves and keep others safe, it is to get vaccinated. The new vaccines have proven to be extraordinarily effective at preventing severe illness. Getting vaccinated at Georgia Tech is easy and free. If you choose not to get vaccinated, you are encouraged wear a mask in indoor public places, including campus buildings, as recommended by the CDC. 
 
-<h3>Student Illness or Exposure to Covid-19</h3>
-<p>During the semester, you may be required to quarantine or self-isolate to avoid the risk of infection to others. &nbsp;Quarantine is the separation of those who have been exposed to someone with Covid-19 but who are not ill; isolation is the separation of those who have tested positive for Covid-19 or been diagnosed with Covid-19 by symptoms.</p>
-<p>If you have not tested positive but are ill or have been exposed to someone who is ill, please follow the <a href="http://health.gatech.edu/coronavirus/decision-tree">Covid-19 Exposure Decision Tree</a> for reporting your illness.</p>
-<p>During the quarantine or isolation period you may feel completely well, ill but able to work as usual, or too ill to work until you recover.</p>
+The CDC recently issued new interim guidance recommending the use of masks inside public buildings even by fully vaccinated individuals. At Georgia Tech, everyone is encouraged to wear a mask or face covering while inside campus facilities. To be clear, neither vaccination nor masking in indoor public spaces is required at Georgia Tech.  
 
-<p>Unless you are too ill to work, you should be able to complete your remote work while in quarantine or isolation.</p>
+The free asymptomatic surveillance testing program remains available to all students and employees. You may participate in regular testing even if you have been fully vaccinated. We especially encourage those who have not been vaccinated to get tested weekly.
 
-<p>If you are ill and unable to do course work this will be treated similarly to any student illness. The Dean of Students will have been contacted when you report your positive test or are told that it is necessary to quarantine and will notify your instructor that you may be unable to attend class events or finish your work as the result of a health issue. Your instructor will not be told the reason. We have asked all faculty to be lenient and understanding when setting work deadlines or expecting students to finish work, and so you should be able to catch up with any work that you miss while in quarantine or isolation. Your instructor may make available any video recordings of classes or slides that have been used while you are absent, and may prepare some complementary asynchronous assignments that compensate for your inability to participate in class sessions. Ask your instructor for the details.</p>
-
-<h3>CARE Center, Counseling Center, Stamps Health Services, and the Student Center</h3>
-<p>These uncertain times can be difficult, and many students may need help in dealing with stress and mental health. The&nbsp;<a href="https://care.gatech.edu/"><strong>CARE Center</strong></a>&nbsp;and the&nbsp;<a href="https://counseling.gatech.edu/"><strong>Counseling Center</strong></a>,&nbsp;and&nbsp;<a href="https://health.gatech.edu/"><strong>Stamps Health Services</strong></a>&nbsp;will offer both in-person and virtual appointments. Face-to-face appointments will require wearing a face covering and social distancing, with exceptions for medical examinations. Student Center services and operations are available on the&nbsp;<a href="https://studentcenter.gatech.edu/"><strong>Student Center</strong></a>&nbsp;website. For more information on these and other student services, contact the Vice President and Dean of Students or the&nbsp;<a href="https://studentlife.gatech.edu/"><strong>Division of Student Life</strong></a>.</p>
-
-<h3>Accommodations for Students at Higher Risk for Severe Illness with Covid-19</h3>
-<p>Students may request an accommodation through the Office of Disability Services (ODS) due to 1) presence of a condition as defined by the Americans with Disabilities Act (ADA), or 2) identification as an individual of higher risk for Covid-19, as defined by the Centers for Disease Control (CDC). Registering with ODS is a 3-step process that includes completing an application, uploading documentation related to the accommodation request, and scheduling an appointment for an “intake meeting” (either in person or via phone or video conference) with a disability coordinator.</p>
-<p>&nbsp;If you have been approved by ODS for an accommodation, I will work closely with you to understand your needs and make a good faith effort to investigate whether or not requested accommodations are possible for this course. If the accommodation request results in a fundamental alteration of the stated learning outcome of this course, ODS, academic advisors, and the school offering the course will work with you to find a suitable alternative that as far as possible preserves your progress toward graduation.</p>
 
 <h3>Course Homeworks/Assignments/Papers</h3>
 <p>All course assignments will be submitted electronically via Canvas. </p>
 
-<h3>Course Attendance Structure:</h3>
-<p>Class sessions for CS x476 will take place remote but **synchronously**. You are strongly encouraged to attend class during the assigned class times (Tuesday and Thursday, 3.30pm-4.45pm) and re-review the video snippets when they become available.</p>
 <hr>
