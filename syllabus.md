@@ -39,22 +39,11 @@ You are expected to implement the core components of each project on your own, b
 
 You should not view or edit anyone else's code. You should not post code to Piazza, except for starter code / helper code that isn't related to the core project.
 
-### Important Links:
-* [Piazza](https://piazza.com/class/ksdl6rhmpt25ma). This should be your first stop for questions and announcements.
-* [Gradescope](https://www.gradescope.com/) will be used to hand in assignments.
-
 <h3>Course Attendance:</h3>
 <p>Class sessions for CS x476 will take place remote but **synchronously**. You are strongly encouraged to attend class during the assigned class times (Tuesday and Thursday, 3.30pm-4.45pm) and re-review the video snippets when they become available.</p>
 
 ### Contact Info and Office Hours:
 If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
-
-Heyley Gatewood | hgatewood6@gatech.edu
-Kritika Gupta | kgupta340@gatech.edu
-Nikith Hosangadi| nhosangadi3@gatech.edu
-Junyan Mao | jmao@gatech.edu
-Sarath Mutnuru | smutnuru3@gatech.edu
-Shashank Srikanth | ssrikanth39@gatech.edu
 
 ### Acknowledgements
 The materials from this class rely significantly on slides prepared by other instructors, especially James Hays, Derek Hoiem, Svetlana Lazebnik, and Judy Hoffmann. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
