@@ -63,7 +63,7 @@ The materials from this class rely significantly on slides prepared by other ins
 
 ## Covid 19 Information
 
-<p><span>The fall semester 2021 is especially challenging due to the Covid-19 pandemic. Even though CS x476 will be taught remotely, please take note of the information below. &nbsp;The most up-to-date information on Covid-19 is on the </span><a href="https://health.gatech.edu/coronavirus">TECH Moving Forward</a><span> website.
+The fall semester 2021 is especially challenging due to the Covid-19 pandemic. Even though CS x476 will be taught remotely, please take note of the information below. &nbsp;The most up-to-date information on Covid-19 is on the </span><a href="https://health.gatech.edu/coronavirus">TECH Moving Forward</a><span> website.
 
 We encourage everyone in the Georgia Tech community to follow the Centers for Disease Control and Prevention's (CDC) recommendations, vaccinate, and wear a mask in campus buildings. 
 
