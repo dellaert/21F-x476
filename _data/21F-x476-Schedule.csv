@@ -7,7 +7,7 @@
 3,Sep,9,Thu,Photometric Image formation,-,2.3,,,,,,
 4,Sep,14,Tue,Image processing,S05-Image-Processing,"3.1, 3.2",,Quiz 1,,,,
 4,Sep,16,Thu,Image processing,-,"3.3, 3.4",,,,,,
-5,Sep,21,Tue,CNNs,-,-,,,,,,
+5,Sep,21,Tue,CNNs,S06-Deep-Learning,-,,,,,,
 5,Sep,23,Thu,CNNs,-,-,Segmentation with CNNs,,,,,
 6,Sep,28,Tue,Segmentation,-,-,,Quiz 2,,,,
 6,Sep,30,Thu,Recognition,-,-,,,,,,
